@@ -39,9 +39,9 @@ Atualmente estudo:
 
 ## Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=CiriloDevelope&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CiriloDevelope&layout=compact&theme=dark)
 
 Contato:
 
